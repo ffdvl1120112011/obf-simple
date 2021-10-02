@@ -1,18 +1,18 @@
 # -*- coding: UTF-8 -*-
 
-########################################################
-#                                            OPEN SOURCE                                                           #
-#                                                                                                                                 #
-#                                                                                                                                 #
-#        BOLEH DI RECOD TAPI CANTUMKAN NAMA AUTHOR YA KONTOL       #
-#                                                                                                                                 #
-#                                          AUTHOR > Boy Hamzah                                              #
-#                                          GITHUB   > https://github.com/BOY-H4MZ4H          #
-#                                          FACEBOOK > https://github.com/Boy.Hamzaah       #
-#                                          TEAM  > XNSCODE                                                       #
-#                                                                                                                                 #
-#                                                                                                                                 #
-########################################################
+##################################################################
+#                             OPEN SOURCE                        #
+#                                                                #                                                               
+#                                                                #
+#    BOLEH DI RECOD TAPI CANTUMKAN NAMA AUTHOR YA KONTOL         #
+#                                                                #
+#               AUTHOR > Boy Hamzah                              #
+#               GITHUB   > https://github.com/BOY-H4MZ4H         #
+#               FACEBOOK > https://github.com/Boy.Hamzaah        #
+#               TEAM  > XNSCODE                                  #
+#                                                                #
+#                                                                #
+##################################################################
 
 import os
 import base64
